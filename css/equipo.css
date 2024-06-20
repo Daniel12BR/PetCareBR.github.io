@@ -1,0 +1,75 @@
+body {
+    background: #F6FEFF;
+}
+#menu {
+    text-align: right;
+
+    padding: 50px;
+    font-family: Arial;
+    text-decoration: none;
+    border-bottom: #1F3A74 solid 5px;
+}
+#menu #equipo{
+    background: #68A9FF;}
+#menu a {
+    margin-left: 20px;
+    padding: 10px 50px;
+    border-radius:  100px;
+    text-decoration: none;
+    font-size: 30px;
+    color: #ffffff;
+    background: #FFB58C;
+}
+footer {
+    position: absolute;
+}
+#redes {
+    position: absolute;
+    left: 40px;
+    top: 904px;
+}
+#redes svg {
+    height: 40px;
+    width: 40px;
+    padding-left: 10px;   
+}
+#logo {
+    position: absolute;
+    top: 20px;
+    left: 50px;
+    height: 100px;
+    width: 100px;
+}
+#copy {
+    position: absolute;
+    bottom: 4px;
+    right: 50px;
+}
+section div {
+    margin-top: 50px;
+    margin-left: 300px;
+    display: inline-block;
+    width: 250px;
+    height: 300px;
+}
+img {
+    margin-left: 25px;
+    width: 200px;
+    height: 200px;
+    border-radius: 20px;
+}
+h2 {
+    text-align: center;
+    color: #1F3A74;
+    font-size: 30px;
+}
+h3 {
+    font-size: large;
+    text-align: center;
+    color: #1F3A74;
+}
+#bajo1 {
+    margin-top: 50px;
+    width: 250;
+    margin-left: 550px;
+}
